@@ -1,1 +1,10 @@
 Pasta criada para salvar novos conteúdos sobre Git/GitHub
+
+Comandos no git bash
+
+git clone "LINK" / clonar o repositório do git
+cd nome_nome_da_pasta // entrar na pasta do repositório
+git status // verificar se houve alterações
+git add . // adiciona todos os arquivos novos para comitar
+git commit -m "ESCREVA UMA OBS AQUI" // comita localmente
+git push origin main //publica o commit no GitHub
